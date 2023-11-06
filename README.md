@@ -1,16 +1,6 @@
-# modern_smart_home_ui
+# Modern Smart Home UI
 
-A new Flutter project.
+Modern Smart Home UI
 
-## Getting Started
+![Ekran Alıntısı](https://github.com/BilalSevinc16/Modern_Smart_Home_UI/assets/146417248/af31e6ab-473a-4bf3-bbbc-eaa533ab41cf)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
